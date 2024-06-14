@@ -106,3 +106,5 @@ public:
 		}
 	}
 };
+
+int main()
